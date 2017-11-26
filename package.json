@@ -9,12 +9,12 @@
   "author": "Justin Menga",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.1.5",
+    "bluebird": "^3.5.1",
     "chai": "^3.5.0",
-    "chai-as-promised": "^5.2.0",
-    "mocha": "^2.4.5",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^2.5.3",
     "mocha-jenkins-reporter": "^0.1.9",
-    "superagent": "^1.7.2",
+    "superagent": "^1.8.5",
     "superagent-promise": "^1.1.0"
   }
 }
